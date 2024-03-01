@@ -1,10 +1,13 @@
-# Lab 6 - Chat with PDF
+# Lab 6 - ESL Genie Chatbot
+
+This chatbot is intended to help ESL users understand articles with difficult vocabularies.
+Please try it with the Test_PDF.pdf!
 
 ## Getting Started
 
-1. `python -m venv venv`
-1. `source venv/bin/activate`
-1. `pip install -r requirements.txt`
-1. `cp .env.sample .env`
-1. Change the `.env` file to match your environment
-1. `streamlit run app.py`
+- `python -m venv venv`
+- `source venv/bin/activate`
+- `pip install -r requirements.txt`
+- `streamlit run app.py`
+
+## Lessons Learned
